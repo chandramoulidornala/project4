@@ -7,7 +7,7 @@ namespace project4
         static void Main(string[] args)
         {
             int num,rev,temp,sum=0;
-            Console.WriteLine("enter the string");
+            Console.WriteLine("enter the number");
             num = Convert.ToInt16(Console.ReadLine());
                 temp = num;
             while (num > 0)
